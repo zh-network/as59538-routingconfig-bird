@@ -1,5 +1,5 @@
 # ZH-BUSINESS NETWORK BIRD CONFIG
-<img src="https://ucarecdn.com/d49d2358-d7dc-4fd3-828a-67ef8a4c0ae5/zhnetremovebgcut.png" />
+<img src="https://www.peeringdb.com/m/2.47.0/logos_user_supplied/org-33284-b3b9edb3.png" />
   
 ## ZH BUSINESS NET (AS59538) BGP Communities [FOR PUBLIC SERVICE]
 #### Community list for ZHNET customers
