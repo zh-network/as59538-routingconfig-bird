@@ -30,4 +30,5 @@ LON1-CORE = 01
 59538, 1, 65001 From Downstreams  
 59538, 1, 65002 From Peers  
 59538, 1, 65003 From Upstreams  
+59538, 1, 65005 Export to HE  
   
